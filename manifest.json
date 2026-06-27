@@ -1,0 +1,11 @@
+{
+  "name": "مافیایاب",
+  "short_name": "مافیایاب",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f111a",
+  "theme_color": "#0f111a",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": []
+}
